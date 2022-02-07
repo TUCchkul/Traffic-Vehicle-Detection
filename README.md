@@ -13,7 +13,7 @@ In any data Science Problem data is the crucial parts
 6. Data Augmentation : Augmentar library
 7. DataSet Collection: Selenium
 # Create a environments for this project
- conda create --prefix ./env python==3.7 -y
+ conda create --prefix ./env python==3.6 -y
 # Activate the environments
  conda activate ./env
 # Install all the dependency 
