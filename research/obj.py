@@ -1,4 +1,4 @@
-# Author: Sourangshu Pal
+# Author: Kulkirti Chakma
 # Date: 15/11/19
 # Import packages
 import os
